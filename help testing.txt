@@ -1,3 +1,6 @@
 1
+<<<<<<< HEAD
 
 3
+=======
+>>>>>>> parent of 68fc35c... Update help testing.txt
